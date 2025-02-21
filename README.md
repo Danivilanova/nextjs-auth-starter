@@ -4,7 +4,7 @@ A modern, feature-complete authentication starter template built with Next.js 14
 
 ## Features
 
-- ⚡ **Next.js 14** with App Router
+- ⚡ **Next.js 15** with App Router
 - 🔒 **Supabase Authentication** with:
   - Email/Password authentication
   - Password reset functionality
